@@ -1,0 +1,1 @@
+string myStr5 = '5';

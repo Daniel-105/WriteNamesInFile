@@ -1,0 +1,1 @@
+string myStr8 = '8';

@@ -1,0 +1,1 @@
+string myStr2 = '2';

@@ -1,0 +1,1 @@
+string myStr9 = '9';
